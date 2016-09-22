@@ -1,0 +1,17 @@
+{
+  "name": "ads-abstract",
+  "version": "0.0.1",
+  "description": "Lookup ADS abstracts from Atom",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/askielboe/ads-abstract.git"
+  },
+  "bugs": {
+    "url": "https://github.com/askielboe/ads-abstract/issues"
+  },
+  "license": "MIT"
+}
